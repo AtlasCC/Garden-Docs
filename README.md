@@ -1,4 +1,4 @@
-# Garden-guide V 1.0.3
+# Garden Guide V1.0.3
 
 ### Farming Gear Progression
 - Croppie Armor
