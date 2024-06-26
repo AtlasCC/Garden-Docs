@@ -1,4 +1,4 @@
-# Garden-guide V 1.0.2
+# Garden-guide V 1.0.3
 
 ### Farming Gear Progression
 - Croppie Armor
@@ -9,6 +9,8 @@
 ### Enchant Progression (Armor)
 
 ### Enchant Progression (Hoe/Axe)
+
+### Reforges For (Armor/Hoe/Axe)
 
 ### Farming Speeds (Rancher Boots)
 
