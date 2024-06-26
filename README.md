@@ -1,10 +1,14 @@
-# Garden-guide V 1.0.1
+# Garden-guide V 1.0.2
 
 ## Farming Gear Progression
 - Croppie Armor
 - Squash Armor
 - Melon Armor
 - Fermento Armor
+
+## Enchant Progression (Armor)
+
+## Enchant Progression (Hoe/Axe)
 
 ## Farming Speeds (Rancher Boots)
 
