@@ -21,7 +21,7 @@
 
 ### Farming Speeds (Rancher Boots)
 
-- W/C/P/M/N | S/V = 93
-- Mushroom SDS = 233
-- M/P Melonkingde = 400 (Hold W
-- Use 464 ✦ Speed at a 90 degree angle
+- W/C/P/M/N | S/V = 93 ✦
+- Mushroom SDS = 233 ✦
+- M/P Melonkingde = 400 ✦ (HOLD W)
+- Cactus = 464 ✦
