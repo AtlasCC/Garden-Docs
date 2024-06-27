@@ -10,7 +10,7 @@
 
 ### Enchants (Hoe/Axe)
 
-### Reforges For (Armor/Hoe/Axe)
+### Reforges (Armor/Hoe/Axe)
 
 ### Farming Speeds (Rancher Boots)
 
