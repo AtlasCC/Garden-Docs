@@ -25,3 +25,5 @@
 - Mushroom SDS = 233 ✦
 - M/P Melonkingde = 400 ✦ (HOLD W)
 - Cactus = 464 ✦
+- Cocoa Beans = 5/93 4/116 3/145
+- Sugar Cane = 328 ✦
