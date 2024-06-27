@@ -1,4 +1,4 @@
-# Garden Guide V1.0.3
+# Garden Guide V1.0.4
 
 ### Farming Gear Progression
 - Croppie Armor
@@ -24,3 +24,4 @@
 - W/C/P/M/N | S/V = 93
 - Mushroom SDS = 233
 - M/P Melonkingde = 400 (Hold W
+- Use 464 ✦ Speed at a 90 degree angle
