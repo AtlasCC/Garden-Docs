@@ -1,4 +1,5 @@
-# Garden Guide V0.2.1
+# Garden Guide V0.2.2
+- All Speeds Are At The Bottom
 
 ### Farming Gear Progression
 - Croppie Armor
