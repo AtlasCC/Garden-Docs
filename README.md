@@ -1,4 +1,4 @@
-# Garden Guide V0.1.7
+# Garden Guide V0.2.0
 
 ### Farming Gear Progression
 - Croppie Armor
@@ -6,9 +6,14 @@
 - Melon Armor
 - Fermento Armor
 
-### Enchants (Armor)
-
-### Enchants (Hoe/Axe)
+### Enchants (Armor/Hoe/Axe)
+- Pesterminator 1-5 (All Armor)
+- Depth Strider 3 (Boots)
+- Delicate 1 (Hoe/Axe)
+- Cultivating 1-10 (Hoe/Axe)
+- Dedication 1-4 (Hoe/Axe)
+- Replenish 1 (Hoe/Axe)
+- Harvesting 1-6 (Hoe)
 
 ### Reforges (Armor/Hoe)
 
@@ -20,9 +25,9 @@
 - Blue™ but Yellow Abicase
 
 ### Farming Pets (Tier List)
-- 1. Mushroom Cow Pet (S>FF)
-- 2. Elephant Pet (FF)
-- 3. Rabbit Pet (FW)
+- 1 Mushroom Cow Pet (Fortune)
+- 2 Elephant Pet (Fortune)
+- 3 Rabbit Pet (Wisdom)
 
 ### Farming Speeds (Rancher Boots)
 
