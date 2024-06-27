@@ -15,5 +15,5 @@
 ### Farming Speeds (Rancher Boots)
 
 - W/C/P/M/N | S/V = 93
-- Mushroom SDS = 000
-- M/P Melonkingde = 000
+- Mushroom SDS = 233
+- M/P Melonkingde = 400 (Hold W
