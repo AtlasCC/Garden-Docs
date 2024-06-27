@@ -6,9 +6,9 @@
 - Melon Armor
 - Fermento Armor
 
-### Enchant Progression (Armor)
+### Enchants (Armor)
 
-### Enchant Progression (Hoe/Axe)
+### Enchants (Hoe/Axe)
 
 ### Reforges For (Armor/Hoe/Axe)
 
