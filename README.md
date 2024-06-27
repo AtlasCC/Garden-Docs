@@ -15,7 +15,7 @@
 ### Increasing Farming Wisdom
 - God Potion
 - Booster Cookie
-- Enchants
+- Recomb/Blessed/Cultivating
 - Rabbit Pet
 - Blue™ but Yellow Abicase
 
