@@ -10,7 +10,14 @@
 
 ### Enchants (Hoe/Axe)
 
-### Reforges (Armor/Hoe/Axe)
+### Reforges (Armor/Hoe)
+
+### Increasing Farming Wisdom
+- God Potion
+- Booster Cookie
+- Enchants
+- Rabbit Pet
+- Blue™ but Yellow Abicase
 
 ### Farming Speeds (Rancher Boots)
 
