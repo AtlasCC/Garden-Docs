@@ -1,4 +1,4 @@
-# Garden Guide V0.2.0
+# Garden Guide V0.2.1
 
 ### Farming Gear Progression
 - Croppie Armor
@@ -16,7 +16,11 @@
 - Harvesting 1-6 (Hoe)
 - Smelting Touch (Cactus Hoe)
 
-### Reforges (Armor/Hoe)
+### Reforges (Armor/Hoe/Axe)
+- Mossy (Owergrown Grass) (Armor)
+- Bustling (Skymart Brochure) (Armor)
+- Blessed Fruit (Blessed) (Axe/Hoe)
+- Golden Ball (Bontiful) (Axe/Hoe)
 
 ### Increasing Farming Wisdom
 - God Potion
