@@ -1,7 +1,6 @@
-# Garden Guide V0.2.2
-- All Speeds Are At The Bottom
+# Garden Guide V0.2.3
 
-### Farming Gear Progression
+### Farming Armor (Tier List)
 - Croppie Armor
 - Squash Armor
 - Melon Armor
@@ -29,6 +28,8 @@
 - Recomb/Blessed/Cultivating
 - Rabbit Pet
 - Blue™ but Yellow Abicase
+
+### Increasing Farming Fortune
 
 ### Farming Pets (Tier List)
 - 1 Mushroom Cow Pet (Fortune)
