@@ -19,6 +19,8 @@
 - Rabbit Pet
 - Blue™ but Yellow Abicase
 
+### Farming Pets (Tier List)
+
 ### Farming Speeds (Rancher Boots)
 
 - W/C/P/M/N | S/V = 93✦
