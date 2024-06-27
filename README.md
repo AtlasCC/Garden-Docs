@@ -1,4 +1,4 @@
-# Garden Guide V1.0.4
+# Garden Guide V0.0.4
 
 ### Farming Gear Progression
 - Croppie Armor
@@ -20,6 +20,8 @@
 - Blue™ but Yellow Abicase
 
 ### Farming Pets (Tier List)
+- 1. Mushroom Cow Pet (S>FF)
+- 2. Elephant Pet (FF)
 
 ### Farming Speeds (Rancher Boots)
 
