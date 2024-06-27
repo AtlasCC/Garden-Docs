@@ -14,6 +14,7 @@
 - Dedication 1-4 (Hoe/Axe)
 - Replenish 1 (Hoe/Axe)
 - Harvesting 1-6 (Hoe)
+- Smelting Touch (Cactus Hoe)
 
 ### Reforges (Armor/Hoe)
 
