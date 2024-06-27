@@ -1,4 +1,4 @@
-# Garden Guide v0.2.4
+# Garden Docs v0.2.5
 
 ### Farming Armor (Tier List)
 - Croppie Armor
