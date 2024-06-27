@@ -1,4 +1,4 @@
-# Garden Guide V0.0.4
+# Garden Guide V0.1.7
 
 ### Farming Gear Progression
 - Croppie Armor
@@ -22,6 +22,7 @@
 ### Farming Pets (Tier List)
 - 1. Mushroom Cow Pet (S>FF)
 - 2. Elephant Pet (FF)
+- 3. Rabbit Pet (FW)
 
 ### Farming Speeds (Rancher Boots)
 
