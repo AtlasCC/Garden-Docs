@@ -1,4 +1,4 @@
-# Garden Guide V0.2.3
+# Garden Guide v0.2.4
 
 ### Farming Armor (Tier List)
 - Croppie Armor
@@ -40,7 +40,7 @@
 
 - W/C/P/M/N | S/V = 93✦
 - Mushroom SDS = 233✦
-- M/P Melonkingde = 400✦ (HOLD W)
+- M/P Melonkingde = 293✦ W/400✦
 - Cactus = 464✦
 - Cocoa Beans = 5/93✦ 4/116✦ 3/145✦
 - Sugar Cane = 328✦
